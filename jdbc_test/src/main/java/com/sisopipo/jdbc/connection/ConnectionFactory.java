@@ -5,6 +5,7 @@
 package com.sisopipo.jdbc.connection;
 
 import java.sql.Connection;
+import java.sql.SQLException;
 
 /**
  * @author Geln Yang
@@ -12,5 +13,5 @@ import java.sql.Connection;
  */
 public interface ConnectionFactory {
 
-	public Connection create();
+	public Connection create() throws SQLException;
 }
