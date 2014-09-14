@@ -1,5 +1,5 @@
 /**
- * Created By: Comwave Project Team
+ * Created By: gelnyang at 163.com
  * Created Date: 2014年9月11日
  */
 package com.sisopipo.jdbc.connection.factory;
